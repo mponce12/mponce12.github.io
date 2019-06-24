@@ -1,1 +1,3 @@
 Primer archivo con vi en git del 24 de junio del 2019 17:38
+
+Estoy aprendiendo Git con Freddy Vega viendo clases de Platzi
