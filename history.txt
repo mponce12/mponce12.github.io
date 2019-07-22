@@ -1,3 +1,4 @@
 Primer archivo con vi en git
 
-Estoy aprendiendo el manejo del checkout para tocar un solo archivo sobre una versión anterior
+Estoy aprendiendo el manejo del checkout para tocar un solo archivo sobre una versión anterior. 
+Ahora uso otro usuario de git de ejemplo con la cuenta marceloponce12@gmail.com
